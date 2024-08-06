@@ -1,0 +1,599 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		"29D4E72F-D1B8-42FD-83F1-13E6140086CB" /* visual01.cpp in Sources */ = {isa = PBXBuildFile; fileRef = "08402830-9BD5-4E09-AE22-4FE59E26FBDC" /* visual01.cpp */; };
+		"42C9B30B-CC7B-44ED-A5B5-EC5E1F7800AE" /* visual06.cpp in Sources */ = {isa = PBXBuildFile; fileRef = "FC22611E-50DB-4282-9416-60E8751B04E1" /* visual06.cpp */; };
+		"4E996748-77FC-4E19-AA9C-87117291DBFD" /* ofxSvg.cpp in Sources */ = {isa = PBXBuildFile; fileRef = "32298FBB-16EC-4F72-8657-61A0D3572341" /* ofxSvg.cpp */; };
+		"500F147A-D589-4243-B5C5-0D272DC84DE3" /* ofxTskokmtMath.cpp in Sources */ = {isa = PBXBuildFile; fileRef = "4C1B2CFF-A438-43AA-9248-5C769547E298" /* ofxTskokmtMath.cpp */; };
+		"5D3E906E-2A80-4BE2-A706-DF367FD36CF1" /* visual04.cpp in Sources */ = {isa = PBXBuildFile; fileRef = "A3CC0CF2-93B4-418C-8493-C0B30FB1E050" /* visual04.cpp */; };
+		"633E024B-853F-4534-95B5-B978C61854CF" /* visual05.cpp in Sources */ = {isa = PBXBuildFile; fileRef = "5EBF6A38-BCCF-4EDB-A8C3-56D02D3E322C" /* visual05.cpp */; };
+		"8219690C-7D9C-4DE7-83E0-2F443D4785D8" /* marginBand.cpp in Sources */ = {isa = PBXBuildFile; fileRef = "DE39C060-D8EB-48A5-B67D-D2BFF74CE80C" /* marginBand.cpp */; };
+		"B5953205-E59D-4EB2-ADF0-791E823E2337" /* visual02.cpp in Sources */ = {isa = PBXBuildFile; fileRef = "3C710DA0-8BAB-451B-9D38-9F1CA615EB34" /* visual02.cpp */; };
+		"C08781BA-D038-4307-903C-32F24B0EA705" /* HStack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = "D3B9E86A-6F84-4FE3-A11A-410817ABE112" /* HStack.cpp */; };
+		E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */; };
+		E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */; };
+		"E757F1C0-C684-4787-B608-468C1AD9A19E" /* VStack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = "5B15AB7F-C088-4C9C-B999-0C64427E08C9" /* VStack.cpp */; };
+		"FA9D6DA5-9515-4F77-9E55-243E317DE27B" /* visual03.cpp in Sources */ = {isa = PBXBuildFile; fileRef = "BEC4F0A4-A99E-4261-A8BB-865B7F316283" /* visual03.cpp */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		E4A5B60F29BAAAE400C2D356 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 6;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		E4C2427710CC5ABF004149E2 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		"038F1F54-A4BD-49CF-8B3C-1C3CA5B6B7E5" /* SAX.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = SAX.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/SAX.h; sourceTree = SOURCE_ROOT; };
+		"03E641A8-2F46-4AA9-8EB3-E3ED8E927DC1" /* xmlwriter.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlwriter.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlwriter.h; sourceTree = SOURCE_ROOT; };
+		"04BC1993-2494-4CCF-9E27-B84B29AE74CB" /* xmlregexp.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlregexp.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlregexp.h; sourceTree = SOURCE_ROOT; };
+		"080C2E9F-3144-49BA-B77E-E1A3D0976455" /* xmlstring.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlstring.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlstring.h; sourceTree = SOURCE_ROOT; };
+		"08402830-9BD5-4E09-AE22-4FE59E26FBDC" /* visual01.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = visual01.cpp; path = src/visual01.cpp; sourceTree = SOURCE_ROOT; };
+		"09878F5A-0301-45A3-A9D0-F2B447FC528C" /* xmlmemory.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlmemory.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlmemory.h; sourceTree = SOURCE_ROOT; };
+		"0C698D36-DE0E-4804-8C50-049AEE44B574" /* HTMLparser.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = HTMLparser.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/HTMLparser.h; sourceTree = SOURCE_ROOT; };
+		"0C7F3ADB-A517-4E75-BBF8-FCF3482DBC1F" /* hash.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = hash.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/hash.h; sourceTree = SOURCE_ROOT; };
+		"0CAB725F-57F7-4F5A-A73B-0E85D825BEE7" /* marginBand.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = marginBand.h; path = src/addons/ofxFrameOcean/src/marginBand.h; sourceTree = SOURCE_ROOT; };
+		"0E7DA887-456B-45ED-B47A-9CFC86C922C6" /* xmlunicode.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlunicode.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlunicode.h; sourceTree = SOURCE_ROOT; };
+		"14645992-DDF0-436F-A77E-9DE9C5917011" /* SAX2.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = SAX2.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/SAX2.h; sourceTree = SOURCE_ROOT; };
+		"17DCF538-24E6-4425-A0FE-89C5124421F0" /* xinclude.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xinclude.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xinclude.h; sourceTree = SOURCE_ROOT; };
+		191CD6FA2847E21E0085CBB6 /* of.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = of.entitlements; sourceTree = "<group>"; };
+		191EF70929D778A400F35F26 /* openFrameworks */ = {isa = PBXFileReference; lastKnownFileType = folder; name = openFrameworks; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/libs/openFrameworks; sourceTree = SOURCE_ROOT; };
+		"20DE8B5D-A34D-43F2-8941-1CFBD5F67B6A" /* ofxFrameOcean.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxFrameOcean.h; path = src/addons/ofxFrameOcean/src/ofxFrameOcean.h; sourceTree = SOURCE_ROOT; };
+		"27C6C114-01D8-439A-BC0A-0751B5CAD0CC" /* xmlexports.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlexports.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlexports.h; sourceTree = SOURCE_ROOT; };
+		"2C9D762D-0AF0-4A17-AD87-C39C8397D79B" /* xmlerror.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlerror.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlerror.h; sourceTree = SOURCE_ROOT; };
+		"2D672092-6CEC-4B0C-9E73-A24D92B2D269" /* nanohttp.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = nanohttp.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/nanohttp.h; sourceTree = SOURCE_ROOT; };
+		"2E1F5B10-C607-43C8-ACAC-21AC66C918B8" /* xmlsave.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlsave.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlsave.h; sourceTree = SOURCE_ROOT; };
+		"2E649193-BD89-4DED-ABED-5A6E96B415E8" /* debugXML.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = debugXML.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/debugXML.h; sourceTree = SOURCE_ROOT; };
+		"2F3C449A-9940-49E6-A16D-220C4BEC9EA0" /* DOCBparser.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = DOCBparser.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/DOCBparser.h; sourceTree = SOURCE_ROOT; };
+		"32298FBB-16EC-4F72-8657-61A0D3572341" /* ofxSvg.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxSvg.cpp; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/src/ofxSvg.cpp; sourceTree = SOURCE_ROOT; };
+		"357D9E4A-DB78-47FB-AD87-FB3D2D311B3A" /* entities.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = entities.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/entities.h; sourceTree = SOURCE_ROOT; };
+		"365ABA6A-28C8-4313-ABF2-8C00B6EE39CF" /* uri.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = uri.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/uri.h; sourceTree = SOURCE_ROOT; };
+		"374A5286-240E-4B2F-AE57-330B91B626D3" /* xpointer.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xpointer.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xpointer.h; sourceTree = SOURCE_ROOT; };
+		"3888A0DD-9248-4BBE-9605-4801FAC6CA85" /* xmlmodule.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlmodule.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlmodule.h; sourceTree = SOURCE_ROOT; };
+		"388C783B-5301-41A3-9759-9F0F041E696D" /* xmlschemas.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlschemas.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlschemas.h; sourceTree = SOURCE_ROOT; };
+		"3C710DA0-8BAB-451B-9D38-9F1CA615EB34" /* visual02.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = visual02.cpp; path = src/visual02.cpp; sourceTree = SOURCE_ROOT; };
+		"4C1B2CFF-A438-43AA-9248-5C769547E298" /* ofxTskokmtMath.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofxTskokmtMath.cpp; path = src/addons/ofxTskokmtMath/src/ofxTskokmtMath.cpp; sourceTree = SOURCE_ROOT; };
+		"53689C04-437A-4822-BBFC-A61F5B60BE98" /* schematron.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = schematron.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/schematron.h; sourceTree = SOURCE_ROOT; };
+		"53DF344B-23B7-4F79-9D5E-CB9DBB99EAE3" /* xmlreader.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlreader.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlreader.h; sourceTree = SOURCE_ROOT; };
+		"571624A0-84C0-49AD-BC9C-C892E436ACF6" /* nanoftp.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = nanoftp.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/nanoftp.h; sourceTree = SOURCE_ROOT; };
+		"5B15AB7F-C088-4C9C-B999-0C64427E08C9" /* VStack.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = VStack.cpp; path = src/addons/ofxFrameOcean/src/VStack.cpp; sourceTree = SOURCE_ROOT; };
+		"5EBF6A38-BCCF-4EDB-A8C3-56D02D3E322C" /* visual05.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = visual05.cpp; path = src/visual05.cpp; sourceTree = SOURCE_ROOT; };
+		"60E75F10-B0FC-4E21-9974-140A6732FB50" /* svgtiny.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = svgtiny.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/include/svgtiny.h; sourceTree = SOURCE_ROOT; };
+		"60FAA74F-8F76-420C-9857-C5D4B829ABB1" /* threads.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = threads.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/threads.h; sourceTree = SOURCE_ROOT; };
+		"655DB2F0-40AF-4020-80A8-C5C66236EC64" /* pattern.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = pattern.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/pattern.h; sourceTree = SOURCE_ROOT; };
+		"66269A7B-BC36-4E0B-B320-3210A5AC5613" /* visual04.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = visual04.h; path = src/visual04.h; sourceTree = SOURCE_ROOT; };
+		"664945F4-A79B-4764-BC98-E1E0A452EFA3" /* ofxSvg.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxSvg.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/src/ofxSvg.h; sourceTree = SOURCE_ROOT; };
+		"683EA349-C904-49F8-A013-B454AC80AED5" /* visual05.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = visual05.h; path = src/visual05.h; sourceTree = SOURCE_ROOT; };
+		"6F31AA1D-0F6A-4000-8BE2-02F3B11EBFCC" /* HTMLtree.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = HTMLtree.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/HTMLtree.h; sourceTree = SOURCE_ROOT; };
+		"7B6B64C7-E27C-4234-8489-F70CA0F61229" /* list.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = list.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/list.h; sourceTree = SOURCE_ROOT; };
+		"7ED0F005-726D-4D3F-8F63-2A8064D8294B" /* relaxng.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = relaxng.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/relaxng.h; sourceTree = SOURCE_ROOT; };
+		"84990234-9B0B-4928-8B01-3CF34765087C" /* c14n.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = c14n.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/c14n.h; sourceTree = SOURCE_ROOT; };
+		"854F9D82-40CC-45FF-A59E-865A92AFA270" /* xpath.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xpath.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xpath.h; sourceTree = SOURCE_ROOT; };
+		"85AF5DEF-7234-481B-94C3-02714F844A85" /* xmlversion.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlversion.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlversion.h; sourceTree = SOURCE_ROOT; };
+		"872288DB-DD71-49DD-8D70-6A40FCE07F49" /* tree.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = tree.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/tree.h; sourceTree = SOURCE_ROOT; };
+		"8B8FAF59-34F1-4076-9B25-BD6FE0700139" /* catalog.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = catalog.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/catalog.h; sourceTree = SOURCE_ROOT; };
+		"95CA1E35-BF52-4D48-B4AA-0E6A2C6D367E" /* VStack.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = VStack.h; path = src/addons/ofxFrameOcean/src/VStack.h; sourceTree = SOURCE_ROOT; };
+		"96EAC28E-E9B9-4283-851C-13D3075D52C7" /* visual06.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = visual06.h; path = src/visual06.h; sourceTree = SOURCE_ROOT; };
+		"97771821-0EB6-420A-90A3-93574B6E5F5D" /* visual02.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = visual02.h; path = src/visual02.h; sourceTree = SOURCE_ROOT; };
+		"9DE86083-1A4C-4727-B66B-B603EF692DBD" /* xpathInternals.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xpathInternals.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xpathInternals.h; sourceTree = SOURCE_ROOT; };
+		"9F19FC32-8074-4D0C-929E-34282E06C1BD" /* visual03.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = visual03.h; path = src/visual03.h; sourceTree = SOURCE_ROOT; };
+		"A3CC0CF2-93B4-418C-8493-C0B30FB1E050" /* visual04.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = visual04.cpp; path = src/visual04.cpp; sourceTree = SOURCE_ROOT; };
+		"B78A266D-8764-41E7-BEE5-332FE1864112" /* xlink.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xlink.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xlink.h; sourceTree = SOURCE_ROOT; };
+		"BD936DA0-E3AB-4573-827B-1C466DD5271D" /* HStack.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = HStack.h; path = src/addons/ofxFrameOcean/src/HStack.h; sourceTree = SOURCE_ROOT; };
+		"BEC4F0A4-A99E-4261-A8BB-865B7F316283" /* visual03.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = visual03.cpp; path = src/visual03.cpp; sourceTree = SOURCE_ROOT; };
+		"BEE425A1-107E-4668-9F34-8DF630B13E53" /* globals.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = globals.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/globals.h; sourceTree = SOURCE_ROOT; };
+		"BF669F6C-660F-4E75-835C-D4FD851EE98D" /* schemasInternals.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = schemasInternals.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/schemasInternals.h; sourceTree = SOURCE_ROOT; };
+		"BFA06C9E-2D4F-438F-95A8-DCD6B8E3C342" /* dict.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = dict.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/dict.h; sourceTree = SOURCE_ROOT; };
+		"C8AD86FA-8D0E-4604-8783-642A9B6FBBF5" /* valid.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = valid.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/valid.h; sourceTree = SOURCE_ROOT; };
+		"D0744FB0-A1CD-48F2-B7B8-896E581C3BE4" /* parser.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = parser.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/parser.h; sourceTree = SOURCE_ROOT; };
+		"D2283962-9A56-414A-B37E-4D46A47608C0" /* visual01.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = visual01.h; path = src/visual01.h; sourceTree = SOURCE_ROOT; };
+		"D3B9E86A-6F84-4FE3-A11A-410817ABE112" /* HStack.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = HStack.cpp; path = src/addons/ofxFrameOcean/src/HStack.cpp; sourceTree = SOURCE_ROOT; };
+		"D4E36FBE-6371-43F8-93CF-42D12814D687" /* encoding.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = encoding.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/encoding.h; sourceTree = SOURCE_ROOT; };
+		"D5D5F253-B341-4E25-94BA-744DA907142C" /* xmlautomata.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlautomata.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlautomata.h; sourceTree = SOURCE_ROOT; };
+		"DE39C060-D8EB-48A5-B67D-D2BFF74CE80C" /* marginBand.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = marginBand.cpp; path = src/addons/ofxFrameOcean/src/marginBand.cpp; sourceTree = SOURCE_ROOT; };
+		"E2C8972E-6C52-4708-B21A-5FFC91216440" /* xmlIO.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlIO.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlIO.h; sourceTree = SOURCE_ROOT; };
+		"E2E1E5EB-E938-43A8-BA16-469475454704" /* parserInternals.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = parserInternals.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/parserInternals.h; sourceTree = SOURCE_ROOT; };
+		E4B69B5B0A3A1756003C02F2 /* Kumazawa DesignDebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kumazawa DesignDebug.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = main.cpp; path = src/main.cpp; sourceTree = SOURCE_ROOT; };
+		E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = ofApp.cpp; path = src/ofApp.cpp; sourceTree = SOURCE_ROOT; };
+		E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ofApp.h; path = src/ofApp.h; sourceTree = SOURCE_ROOT; };
+		E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "openFrameworks-Info.plist"; sourceTree = "<group>"; };
+		E4EB6923138AFD0F00A09F29 /* Project.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = Project.xcconfig; sourceTree = "<group>"; };
+		"E7F48938-1A02-4451-8FB6-95FB5880BC50" /* chvalid.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = chvalid.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/chvalid.h; sourceTree = SOURCE_ROOT; };
+		"F6DCB8DE-B387-49CC-BECD-8AE1B973A7E4" /* ofxTskokmtMath.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = ofxTskokmtMath.h; path = src/addons/ofxTskokmtMath/src/ofxTskokmtMath.h; sourceTree = SOURCE_ROOT; };
+		"F7FDCA97-D508-4F8A-B1F9-D3462D87E666" /* xmlschemastypes.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 4; name = xmlschemastypes.h; path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlschemastypes.h; sourceTree = SOURCE_ROOT; };
+		"FC22611E-50DB-4282-9416-60E8751B04E1" /* visual06.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 4; name = visual06.cpp; path = src/visual06.cpp; sourceTree = SOURCE_ROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		E4B69B590A3A1756003C02F2 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		"10C0E004-F042-4C77-A6D1-D52DFD74B413" /* src */ = {
+			isa = PBXGroup;
+			children = (
+				"32298FBB-16EC-4F72-8657-61A0D3572341" /* ofxSvg.cpp */,
+				"664945F4-A79B-4764-BC98-E1E0A452EFA3" /* ofxSvg.h */,
+			);
+			name = src;
+			sourceTree = SOURCE_ROOT;
+		};
+		"267D072A-3A31-4DFA-87BD-3CE5B296C7ED" /* include */ = {
+			isa = PBXGroup;
+			children = (
+				"60E75F10-B0FC-4E21-9974-140A6732FB50" /* svgtiny.h */,
+			);
+			name = include;
+			sourceTree = SOURCE_ROOT;
+		};
+		"60B08B5A-DAF8-4877-A27C-4FD065C2149A" /* addons */ = {
+			isa = PBXGroup;
+			children = (
+				"D54B8176-5610-4BF2-B4AA-B47F6BA4B6F3" /* ofxFrameOcean */,
+				"9B034199-9FBA-4EF2-92CF-63B976D0FAD0" /* ofxTskokmtMath */,
+			);
+			name = addons;
+			path = src/addons;
+			sourceTree = SOURCE_ROOT;
+		};
+		"7EB59863-BA9D-469C-885C-D5A2EDC5833B" /* ofxSvg */ = {
+			isa = PBXGroup;
+			children = (
+				"958D9927-E022-47B7-8278-38034C41615F" /* libs */,
+				"10C0E004-F042-4C77-A6D1-D52DFD74B413" /* src */,
+			);
+			name = ofxSvg;
+			sourceTree = SOURCE_ROOT;
+		};
+		"8AA4A6E7-B621-474E-95DC-524E7AF3A91E" /* src */ = {
+			isa = PBXGroup;
+			children = (
+				"D3B9E86A-6F84-4FE3-A11A-410817ABE112" /* HStack.cpp */,
+				"BD936DA0-E3AB-4573-827B-1C466DD5271D" /* HStack.h */,
+				"5B15AB7F-C088-4C9C-B999-0C64427E08C9" /* VStack.cpp */,
+				"95CA1E35-BF52-4D48-B4AA-0E6A2C6D367E" /* VStack.h */,
+				"DE39C060-D8EB-48A5-B67D-D2BFF74CE80C" /* marginBand.cpp */,
+				"0CAB725F-57F7-4F5A-A73B-0E85D825BEE7" /* marginBand.h */,
+				"20DE8B5D-A34D-43F2-8941-1CFBD5F67B6A" /* ofxFrameOcean.h */,
+			);
+			name = src;
+			path = src/addons/ofxFrameOcean/src;
+			sourceTree = SOURCE_ROOT;
+		};
+		"93390B03-2F49-4C44-8331-BB3455AF48D2" /* svgtiny */ = {
+			isa = PBXGroup;
+			children = (
+				"267D072A-3A31-4DFA-87BD-3CE5B296C7ED" /* include */,
+			);
+			name = svgtiny;
+			sourceTree = SOURCE_ROOT;
+		};
+		"958D9927-E022-47B7-8278-38034C41615F" /* libs */ = {
+			isa = PBXGroup;
+			children = (
+				"D34E52DE-72EC-4F7A-ADD7-152373025100" /* libxml2 */,
+				"93390B03-2F49-4C44-8331-BB3455AF48D2" /* svgtiny */,
+			);
+			name = libs;
+			sourceTree = SOURCE_ROOT;
+		};
+		"9B034199-9FBA-4EF2-92CF-63B976D0FAD0" /* ofxTskokmtMath */ = {
+			isa = PBXGroup;
+			children = (
+				"F82DAF1F-44F7-4C34-A7EB-E7AA2DEA1A99" /* src */,
+			);
+			name = ofxTskokmtMath;
+			path = src/addons/ofxTskokmtMath;
+			sourceTree = SOURCE_ROOT;
+		};
+		BB4B014C10F69532006C3DED /* addons */ = {
+			isa = PBXGroup;
+			children = (
+				"7EB59863-BA9D-469C-885C-D5A2EDC5833B" /* ofxSvg */,
+			);
+			name = addons;
+			path = /Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons;
+			sourceTree = "<group>";
+		};
+		"D34E52DE-72EC-4F7A-ADD7-152373025100" /* libxml2 */ = {
+			isa = PBXGroup;
+			children = (
+				"E7B9E90A-A448-4EA2-AC0D-86586ED0E8DA" /* include */,
+			);
+			name = libxml2;
+			sourceTree = SOURCE_ROOT;
+		};
+		"D54B8176-5610-4BF2-B4AA-B47F6BA4B6F3" /* ofxFrameOcean */ = {
+			isa = PBXGroup;
+			children = (
+				"8AA4A6E7-B621-474E-95DC-524E7AF3A91E" /* src */,
+			);
+			name = ofxFrameOcean;
+			path = src/addons/ofxFrameOcean;
+			sourceTree = SOURCE_ROOT;
+		};
+		E4B69B4A0A3A1720003C02F2 = {
+			isa = PBXGroup;
+			children = (
+				191CD6FA2847E21E0085CBB6 /* of.entitlements */,
+				E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */,
+				E4EB6923138AFD0F00A09F29 /* Project.xcconfig */,
+				E4B69E1C0A3A1BDC003C02F2 /* src */,
+				191EF70929D778A400F35F26 /* openFrameworks */,
+				BB4B014C10F69532006C3DED /* addons */,
+				E4B69B5B0A3A1756003C02F2 /* Kumazawa DesignDebug.app */,
+			);
+			sourceTree = "<group>";
+		};
+		E4B69E1C0A3A1BDC003C02F2 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				E4B69E1D0A3A1BDC003C02F2 /* main.cpp */,
+				E4B69E1E0A3A1BDC003C02F2 /* ofApp.cpp */,
+				E4B69E1F0A3A1BDC003C02F2 /* ofApp.h */,
+				"08402830-9BD5-4E09-AE22-4FE59E26FBDC" /* visual01.cpp */,
+				"D2283962-9A56-414A-B37E-4D46A47608C0" /* visual01.h */,
+				"3C710DA0-8BAB-451B-9D38-9F1CA615EB34" /* visual02.cpp */,
+				"97771821-0EB6-420A-90A3-93574B6E5F5D" /* visual02.h */,
+				"BEC4F0A4-A99E-4261-A8BB-865B7F316283" /* visual03.cpp */,
+				"9F19FC32-8074-4D0C-929E-34282E06C1BD" /* visual03.h */,
+				"A3CC0CF2-93B4-418C-8493-C0B30FB1E050" /* visual04.cpp */,
+				"66269A7B-BC36-4E0B-B320-3210A5AC5613" /* visual04.h */,
+				"5EBF6A38-BCCF-4EDB-A8C3-56D02D3E322C" /* visual05.cpp */,
+				"683EA349-C904-49F8-A013-B454AC80AED5" /* visual05.h */,
+				"FC22611E-50DB-4282-9416-60E8751B04E1" /* visual06.cpp */,
+				"96EAC28E-E9B9-4283-851C-13D3075D52C7" /* visual06.h */,
+				"60B08B5A-DAF8-4877-A27C-4FD065C2149A" /* addons */,
+			);
+			path = src;
+			sourceTree = SOURCE_ROOT;
+		};
+		"E7B9E90A-A448-4EA2-AC0D-86586ED0E8DA" /* include */ = {
+			isa = PBXGroup;
+			children = (
+				"FCCA5331-7638-4EF4-AC5C-A5169DBD8133" /* libxml */,
+			);
+			name = include;
+			sourceTree = SOURCE_ROOT;
+		};
+		"F82DAF1F-44F7-4C34-A7EB-E7AA2DEA1A99" /* src */ = {
+			isa = PBXGroup;
+			children = (
+				"4C1B2CFF-A438-43AA-9248-5C769547E298" /* ofxTskokmtMath.cpp */,
+				"F6DCB8DE-B387-49CC-BECD-8AE1B973A7E4" /* ofxTskokmtMath.h */,
+			);
+			name = src;
+			path = src/addons/ofxTskokmtMath/src;
+			sourceTree = SOURCE_ROOT;
+		};
+		"FCCA5331-7638-4EF4-AC5C-A5169DBD8133" /* libxml */ = {
+			isa = PBXGroup;
+			children = (
+				"2F3C449A-9940-49E6-A16D-220C4BEC9EA0" /* DOCBparser.h */,
+				"0C698D36-DE0E-4804-8C50-049AEE44B574" /* HTMLparser.h */,
+				"6F31AA1D-0F6A-4000-8BE2-02F3B11EBFCC" /* HTMLtree.h */,
+				"038F1F54-A4BD-49CF-8B3C-1C3CA5B6B7E5" /* SAX.h */,
+				"14645992-DDF0-436F-A77E-9DE9C5917011" /* SAX2.h */,
+				"84990234-9B0B-4928-8B01-3CF34765087C" /* c14n.h */,
+				"8B8FAF59-34F1-4076-9B25-BD6FE0700139" /* catalog.h */,
+				"E7F48938-1A02-4451-8FB6-95FB5880BC50" /* chvalid.h */,
+				"2E649193-BD89-4DED-ABED-5A6E96B415E8" /* debugXML.h */,
+				"BFA06C9E-2D4F-438F-95A8-DCD6B8E3C342" /* dict.h */,
+				"D4E36FBE-6371-43F8-93CF-42D12814D687" /* encoding.h */,
+				"357D9E4A-DB78-47FB-AD87-FB3D2D311B3A" /* entities.h */,
+				"BEE425A1-107E-4668-9F34-8DF630B13E53" /* globals.h */,
+				"0C7F3ADB-A517-4E75-BBF8-FCF3482DBC1F" /* hash.h */,
+				"7B6B64C7-E27C-4234-8489-F70CA0F61229" /* list.h */,
+				"571624A0-84C0-49AD-BC9C-C892E436ACF6" /* nanoftp.h */,
+				"2D672092-6CEC-4B0C-9E73-A24D92B2D269" /* nanohttp.h */,
+				"D0744FB0-A1CD-48F2-B7B8-896E581C3BE4" /* parser.h */,
+				"E2E1E5EB-E938-43A8-BA16-469475454704" /* parserInternals.h */,
+				"655DB2F0-40AF-4020-80A8-C5C66236EC64" /* pattern.h */,
+				"7ED0F005-726D-4D3F-8F63-2A8064D8294B" /* relaxng.h */,
+				"BF669F6C-660F-4E75-835C-D4FD851EE98D" /* schemasInternals.h */,
+				"53689C04-437A-4822-BBFC-A61F5B60BE98" /* schematron.h */,
+				"60FAA74F-8F76-420C-9857-C5D4B829ABB1" /* threads.h */,
+				"872288DB-DD71-49DD-8D70-6A40FCE07F49" /* tree.h */,
+				"365ABA6A-28C8-4313-ABF2-8C00B6EE39CF" /* uri.h */,
+				"C8AD86FA-8D0E-4604-8783-642A9B6FBBF5" /* valid.h */,
+				"17DCF538-24E6-4425-A0FE-89C5124421F0" /* xinclude.h */,
+				"B78A266D-8764-41E7-BEE5-332FE1864112" /* xlink.h */,
+				"E2C8972E-6C52-4708-B21A-5FFC91216440" /* xmlIO.h */,
+				"D5D5F253-B341-4E25-94BA-744DA907142C" /* xmlautomata.h */,
+				"2C9D762D-0AF0-4A17-AD87-C39C8397D79B" /* xmlerror.h */,
+				"27C6C114-01D8-439A-BC0A-0751B5CAD0CC" /* xmlexports.h */,
+				"09878F5A-0301-45A3-A9D0-F2B447FC528C" /* xmlmemory.h */,
+				"3888A0DD-9248-4BBE-9605-4801FAC6CA85" /* xmlmodule.h */,
+				"53DF344B-23B7-4F79-9D5E-CB9DBB99EAE3" /* xmlreader.h */,
+				"04BC1993-2494-4CCF-9E27-B84B29AE74CB" /* xmlregexp.h */,
+				"2E1F5B10-C607-43C8-ACAC-21AC66C918B8" /* xmlsave.h */,
+				"388C783B-5301-41A3-9759-9F0F041E696D" /* xmlschemas.h */,
+				"F7FDCA97-D508-4F8A-B1F9-D3462D87E666" /* xmlschemastypes.h */,
+				"080C2E9F-3144-49BA-B77E-E1A3D0976455" /* xmlstring.h */,
+				"0E7DA887-456B-45ED-B47A-9CFC86C922C6" /* xmlunicode.h */,
+				"85AF5DEF-7234-481B-94C3-02714F844A85" /* xmlversion.h */,
+				"03E641A8-2F46-4AA9-8EB3-E3ED8E927DC1" /* xmlwriter.h */,
+				"854F9D82-40CC-45FF-A59E-865A92AFA270" /* xpath.h */,
+				"9DE86083-1A4C-4727-B66B-B603EF692DBD" /* xpathInternals.h */,
+				"374A5286-240E-4B2F-AE57-330B91B626D3" /* xpointer.h */,
+			);
+			name = libxml;
+			sourceTree = SOURCE_ROOT;
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		E4B69B5A0A3A1756003C02F2 /* Kumazawa Design */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "Kumazawa Design" */;
+			buildPhases = (
+				E42962A92163ECCD00A6A9E2 /* Run Script — Compile OF */,
+				E4B69B580A3A1756003C02F2 /* Sources */,
+				E4B69B590A3A1756003C02F2 /* Frameworks */,
+				E4C2427710CC5ABF004149E2 /* CopyFiles */,
+				E4A5B60F29BAAAE400C2D356 /* CopyFiles */,
+				19B789C429E5AB4A0082E9B8 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Kumazawa Design";
+			productName = myOFApp;
+			productReference = E4B69B5B0A3A1756003C02F2 /* Kumazawa DesignDebug.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0600;
+			};
+			buildConfigurationList = E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "Kumazawa Design" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = E4B69B4A0A3A1720003C02F2;
+			productRefGroup = E4B69B4A0A3A1720003C02F2;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				E4B69B5A0A3A1756003C02F2 /* Kumazawa Design */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		19B789C429E5AB4A0082E9B8 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"$OF_PATH/scripts/osx/xcode_project.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E42962A92163ECCD00A6A9E2 /* Run Script — Compile OF */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Run Script — Compile OF";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "echo \"💾 Compiling Openframeworks\"\nxcodebuild -project \"$OF_PATH/libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj\" -target openFrameworks -configuration \"${CONFIGURATION}\"  CLANG_CXX_LANGUAGE_STANDARD=$CLANG_CXX_LANGUAGE_STANDARD MACOSX_DEPLOYMENT_TARGET=$MACOSX_DEPLOYMENT_TARGET GCC_PREPROCESSOR_DEFINITIONS=$USER_PREPROCESSOR_DEFINITIONS\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		E4B69B580A3A1756003C02F2 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E4B69E200A3A1BDC003C02F2 /* main.cpp in Sources */,
+				E4B69E210A3A1BDC003C02F2 /* ofApp.cpp in Sources */,
+				"C08781BA-D038-4307-903C-32F24B0EA705" /* HStack.cpp in Sources */,
+				"E757F1C0-C684-4787-B608-468C1AD9A19E" /* VStack.cpp in Sources */,
+				"8219690C-7D9C-4DE7-83E0-2F443D4785D8" /* marginBand.cpp in Sources */,
+				"500F147A-D589-4243-B5C5-0D272DC84DE3" /* ofxTskokmtMath.cpp in Sources */,
+				"29D4E72F-D1B8-42FD-83F1-13E6140086CB" /* visual01.cpp in Sources */,
+				"B5953205-E59D-4EB2-ADF0-791E823E2337" /* visual02.cpp in Sources */,
+				"FA9D6DA5-9515-4F77-9E55-243E317DE27B" /* visual03.cpp in Sources */,
+				"5D3E906E-2A80-4BE2-A706-DF367FD36CF1" /* visual04.cpp in Sources */,
+				"633E024B-853F-4534-95B5-B978C61854CF" /* visual05.cpp in Sources */,
+				"42C9B30B-CC7B-44ED-A5B5-EC5E1F7800AE" /* visual06.cpp in Sources */,
+				"4E996748-77FC-4E19-AA9C-87117291DBFD" /* ofxSvg.cpp in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		E4B69B4E0A3A1720003C02F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4EB6923138AFD0F00A09F29 /* Project.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = of.entitlements;
+				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_UNUSED_VARIABLE = NO;
+				HEADER_SEARCH_PATHS = (
+					"$(OF_CORE_HEADERS)",
+					src,
+				);
+				OTHER_CPLUSPLUSFLAGS = "-D__MACOSX_CORE__";
+			};
+			name = Debug;
+		};
+		E4B69B4F0A3A1720003C02F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4EB6923138AFD0F00A09F29 /* Project.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = of.entitlements;
+				COPY_PHASE_STRIP = YES;
+				GCC_OPTIMIZATION_LEVEL = 3;
+				GCC_UNROLL_LOOPS = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(OF_CORE_HEADERS)",
+					src,
+				);
+				OTHER_CPLUSPLUSFLAGS = "-D__MACOSX_CORE__";
+			};
+			name = Release;
+		};
+		E4B69B600A3A1757003C02F2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4EB6923138AFD0F00A09F29 /* Project.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				GCC_DYNAMIC_NO_PIC = NO;
+				HEADER_SEARCH_PATHS = (
+					"$(OF_CORE_HEADERS)",
+					src,
+					src/addons/ofxFrameOcean/src,
+					src/addons/ofxTskokmtMath/src,
+					src,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/emscripten,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/license,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/include,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/emscripten,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/license,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/src,
+				);
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				OTHER_LDFLAGS = (
+					"$(OF_CORE_LIBS)",
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(LIB_OF_DEBUG)",
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx/svgtiny.a,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx/xml2.a,
+				);
+			};
+			name = Debug;
+		};
+		E4B69B610A3A1757003C02F2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E4EB6923138AFD0F00A09F29 /* Project.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				COPY_PHASE_STRIP = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
+				HEADER_SEARCH_PATHS = (
+					"$(OF_CORE_HEADERS)",
+					src,
+					src/addons/ofxFrameOcean/src,
+					src/addons/ofxTskokmtMath/src,
+					src,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/emscripten,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/license,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/include,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/emscripten,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/license,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/src,
+				);
+				LIBRARY_SEARCH_PATHS = "$(inherited)";
+				OTHER_LDFLAGS = (
+					"$(OF_CORE_LIBS)",
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(LIB_OF)",
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx/svgtiny.a,
+					/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx/xml2.a,
+				);
+				baseConfigurationReference = E4EB6923138AFD0F00A09F29;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		E4B69B4D0A3A1720003C02F2 /* Build configuration list for PBXProject "Kumazawa Design" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4B69B4E0A3A1720003C02F2 /* Debug */,
+				E4B69B4F0A3A1720003C02F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		E4B69B5F0A3A1757003C02F2 /* Build configuration list for PBXNativeTarget "Kumazawa Design" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				E4B69B600A3A1757003C02F2 /* Debug */,
+				E4B69B610A3A1757003C02F2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = E4B69B4C0A3A1720003C02F2 /* Project object */;
+}

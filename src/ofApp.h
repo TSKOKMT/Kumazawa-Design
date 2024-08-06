@@ -2,7 +2,12 @@
 
 #include "ofMain.h"
 
+#include "visual01.h"
+#include "visual02.h"
+#include "visual03.h"
+#include "visual04.h"
 #include "visual05.h"
+#include "visual06.h"
 
 class ofApp : public ofBaseApp{
 
@@ -26,5 +31,15 @@ public:
     void gotMessage(ofMessage msg) override;
 		
 private:
+    float time;
+    float previousTime;
+    
+    int index = 4;
+    
+    visual01 myVisual01;
+    visual02 myVisual02;
+    visual03 myVisual03;
+    visual04 myVisual04;
     visual05 myVisual05;
+    visual06 myVisual06;
 };
