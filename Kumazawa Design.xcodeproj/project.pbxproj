@@ -1,0 +1,1139 @@
+{
+	"archiveVersion": "1",
+	"classes": {},
+	"objectVersion": "54",
+	"objects": {
+		"038F1F54-A4BD-49CF-8B3C-1C3CA5B6B7E5": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "SAX.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/SAX.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"03E641A8-2F46-4AA9-8EB3-E3ED8E927DC1": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlwriter.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlwriter.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"04BC1993-2494-4CCF-9E27-B84B29AE74CB": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlregexp.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlregexp.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"080C2E9F-3144-49BA-B77E-E1A3D0976455": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlstring.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlstring.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"08402830-9BD5-4E09-AE22-4FE59E26FBDC": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual01.cpp",
+			"path": "src/visual01.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"09878F5A-0301-45A3-A9D0-F2B447FC528C": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlmemory.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlmemory.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"0C698D36-DE0E-4804-8C50-049AEE44B574": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HTMLparser.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/HTMLparser.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"0C7F3ADB-A517-4E75-BBF8-FCF3482DBC1F": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "hash.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/hash.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"0CAB725F-57F7-4F5A-A73B-0E85D825BEE7": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "marginBand.h",
+			"path": "src/addons/ofxFrameOcean/src/marginBand.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"0E7DA887-456B-45ED-B47A-9CFC86C922C6": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlunicode.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlunicode.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"10C0E004-F042-4C77-A6D1-D52DFD74B413": {
+			"children": [
+				"32298FBB-16EC-4F72-8657-61A0D3572341",
+				"664945F4-A79B-4764-BC98-E1E0A452EFA3"
+			],
+			"isa": "PBXGroup",
+			"name": "src",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"14645992-DDF0-436F-A77E-9DE9C5917011": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "SAX2.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/SAX2.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"17DCF538-24E6-4425-A0FE-89C5124421F0": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xinclude.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xinclude.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"191CD6FA2847E21E0085CBB6": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "text.plist.entitlements",
+			"path": "of.entitlements",
+			"sourceTree": "<group>"
+		},
+		"191EF70929D778A400F35F26": {
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "folder",
+			"name": "openFrameworks",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/libs/openFrameworks",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"19B789C429E5AB4A0082E9B8": {
+			"buildActionMask": "2147483647",
+			"files": [],
+			"inputFileListPaths": [],
+			"inputPaths": [],
+			"isa": "PBXShellScriptBuildPhase",
+			"outputFileListPaths": [],
+			"outputPaths": [],
+			"runOnlyForDeploymentPostprocessing": "0",
+			"shellPath": "/bin/sh",
+			"shellScript": "\"$OF_PATH/scripts/osx/xcode_project.sh\"\n",
+			"showEnvVarsInLog": "0"
+		},
+		"20DE8B5D-A34D-43F2-8941-1CFBD5F67B6A": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxFrameOcean.h",
+			"path": "src/addons/ofxFrameOcean/src/ofxFrameOcean.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"267D072A-3A31-4DFA-87BD-3CE5B296C7ED": {
+			"children": [
+				"60E75F10-B0FC-4E21-9974-140A6732FB50"
+			],
+			"isa": "PBXGroup",
+			"name": "include",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"27C6C114-01D8-439A-BC0A-0751B5CAD0CC": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlexports.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlexports.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"29D4E72F-D1B8-42FD-83F1-13E6140086CB": {
+			"fileRef": "08402830-9BD5-4E09-AE22-4FE59E26FBDC",
+			"isa": "PBXBuildFile"
+		},
+		"2C9D762D-0AF0-4A17-AD87-C39C8397D79B": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlerror.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlerror.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2D672092-6CEC-4B0C-9E73-A24D92B2D269": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "nanohttp.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/nanohttp.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2E1F5B10-C607-43C8-ACAC-21AC66C918B8": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlsave.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlsave.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2E649193-BD89-4DED-ABED-5A6E96B415E8": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "debugXML.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/debugXML.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"2F3C449A-9940-49E6-A16D-220C4BEC9EA0": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "DOCBparser.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/DOCBparser.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"32298FBB-16EC-4F72-8657-61A0D3572341": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxSvg.cpp",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/src/ofxSvg.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"357D9E4A-DB78-47FB-AD87-FB3D2D311B3A": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "entities.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/entities.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"365ABA6A-28C8-4313-ABF2-8C00B6EE39CF": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "uri.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/uri.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"374A5286-240E-4B2F-AE57-330B91B626D3": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xpointer.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xpointer.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"3888A0DD-9248-4BBE-9605-4801FAC6CA85": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlmodule.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlmodule.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"388C783B-5301-41A3-9759-9F0F041E696D": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlschemas.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlschemas.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"3C710DA0-8BAB-451B-9D38-9F1CA615EB34": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual02.cpp",
+			"path": "src/visual02.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"42C9B30B-CC7B-44ED-A5B5-EC5E1F7800AE": {
+			"fileRef": "FC22611E-50DB-4282-9416-60E8751B04E1",
+			"isa": "PBXBuildFile"
+		},
+		"4C1B2CFF-A438-43AA-9248-5C769547E298": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxTskokmtMath.cpp",
+			"path": "src/addons/ofxTskokmtMath/src/ofxTskokmtMath.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"4E996748-77FC-4E19-AA9C-87117291DBFD": {
+			"fileRef": "32298FBB-16EC-4F72-8657-61A0D3572341",
+			"isa": "PBXBuildFile"
+		},
+		"500F147A-D589-4243-B5C5-0D272DC84DE3": {
+			"fileRef": "4C1B2CFF-A438-43AA-9248-5C769547E298",
+			"isa": "PBXBuildFile"
+		},
+		"53689C04-437A-4822-BBFC-A61F5B60BE98": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "schematron.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/schematron.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"53DF344B-23B7-4F79-9D5E-CB9DBB99EAE3": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlreader.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlreader.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"571624A0-84C0-49AD-BC9C-C892E436ACF6": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "nanoftp.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/nanoftp.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5B15AB7F-C088-4C9C-B999-0C64427E08C9": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "VStack.cpp",
+			"path": "src/addons/ofxFrameOcean/src/VStack.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"5D3E906E-2A80-4BE2-A706-DF367FD36CF1": {
+			"fileRef": "A3CC0CF2-93B4-418C-8493-C0B30FB1E050",
+			"isa": "PBXBuildFile"
+		},
+		"5EBF6A38-BCCF-4EDB-A8C3-56D02D3E322C": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual05.cpp",
+			"path": "src/visual05.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"60B08B5A-DAF8-4877-A27C-4FD065C2149A": {
+			"children": [
+				"D54B8176-5610-4BF2-B4AA-B47F6BA4B6F3",
+				"9B034199-9FBA-4EF2-92CF-63B976D0FAD0"
+			],
+			"isa": "PBXGroup",
+			"name": "addons",
+			"path": "src/addons",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"60E75F10-B0FC-4E21-9974-140A6732FB50": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "svgtiny.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/include/svgtiny.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"60FAA74F-8F76-420C-9857-C5D4B829ABB1": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "threads.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/threads.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"633E024B-853F-4534-95B5-B978C61854CF": {
+			"fileRef": "5EBF6A38-BCCF-4EDB-A8C3-56D02D3E322C",
+			"isa": "PBXBuildFile"
+		},
+		"655DB2F0-40AF-4020-80A8-C5C66236EC64": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "pattern.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/pattern.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"66269A7B-BC36-4E0B-B320-3210A5AC5613": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual04.h",
+			"path": "src/visual04.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"664945F4-A79B-4764-BC98-E1E0A452EFA3": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxSvg.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/src/ofxSvg.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"683EA349-C904-49F8-A013-B454AC80AED5": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual05.h",
+			"path": "src/visual05.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"6F31AA1D-0F6A-4000-8BE2-02F3B11EBFCC": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HTMLtree.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/HTMLtree.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"7B6B64C7-E27C-4234-8489-F70CA0F61229": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "list.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/list.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"7EB59863-BA9D-469C-885C-D5A2EDC5833B": {
+			"children": [
+				"958D9927-E022-47B7-8278-38034C41615F",
+				"10C0E004-F042-4C77-A6D1-D52DFD74B413"
+			],
+			"isa": "PBXGroup",
+			"name": "ofxSvg",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"7ED0F005-726D-4D3F-8F63-2A8064D8294B": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "relaxng.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/relaxng.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"8219690C-7D9C-4DE7-83E0-2F443D4785D8": {
+			"fileRef": "DE39C060-D8EB-48A5-B67D-D2BFF74CE80C",
+			"isa": "PBXBuildFile"
+		},
+		"84990234-9B0B-4928-8B01-3CF34765087C": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "c14n.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/c14n.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"854F9D82-40CC-45FF-A59E-865A92AFA270": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xpath.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xpath.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"85AF5DEF-7234-481B-94C3-02714F844A85": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlversion.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlversion.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"872288DB-DD71-49DD-8D70-6A40FCE07F49": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "tree.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/tree.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"8AA4A6E7-B621-474E-95DC-524E7AF3A91E": {
+			"children": [
+				"D3B9E86A-6F84-4FE3-A11A-410817ABE112",
+				"BD936DA0-E3AB-4573-827B-1C466DD5271D",
+				"5B15AB7F-C088-4C9C-B999-0C64427E08C9",
+				"95CA1E35-BF52-4D48-B4AA-0E6A2C6D367E",
+				"DE39C060-D8EB-48A5-B67D-D2BFF74CE80C",
+				"0CAB725F-57F7-4F5A-A73B-0E85D825BEE7",
+				"20DE8B5D-A34D-43F2-8941-1CFBD5F67B6A"
+			],
+			"isa": "PBXGroup",
+			"name": "src",
+			"path": "src/addons/ofxFrameOcean/src",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"8B8FAF59-34F1-4076-9B25-BD6FE0700139": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "catalog.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/catalog.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"93390B03-2F49-4C44-8331-BB3455AF48D2": {
+			"children": [
+				"267D072A-3A31-4DFA-87BD-3CE5B296C7ED"
+			],
+			"isa": "PBXGroup",
+			"name": "svgtiny",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"958D9927-E022-47B7-8278-38034C41615F": {
+			"children": [
+				"D34E52DE-72EC-4F7A-ADD7-152373025100",
+				"93390B03-2F49-4C44-8331-BB3455AF48D2"
+			],
+			"isa": "PBXGroup",
+			"name": "libs",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"95CA1E35-BF52-4D48-B4AA-0E6A2C6D367E": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "VStack.h",
+			"path": "src/addons/ofxFrameOcean/src/VStack.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"96EAC28E-E9B9-4283-851C-13D3075D52C7": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual06.h",
+			"path": "src/visual06.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"97771821-0EB6-420A-90A3-93574B6E5F5D": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual02.h",
+			"path": "src/visual02.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9B034199-9FBA-4EF2-92CF-63B976D0FAD0": {
+			"children": [
+				"F82DAF1F-44F7-4C34-A7EB-E7AA2DEA1A99"
+			],
+			"isa": "PBXGroup",
+			"name": "ofxTskokmtMath",
+			"path": "src/addons/ofxTskokmtMath",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9DE86083-1A4C-4727-B66B-B603EF692DBD": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xpathInternals.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xpathInternals.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"9F19FC32-8074-4D0C-929E-34282E06C1BD": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual03.h",
+			"path": "src/visual03.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"A3CC0CF2-93B4-418C-8493-C0B30FB1E050": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual04.cpp",
+			"path": "src/visual04.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"B5953205-E59D-4EB2-ADF0-791E823E2337": {
+			"fileRef": "3C710DA0-8BAB-451B-9D38-9F1CA615EB34",
+			"isa": "PBXBuildFile"
+		},
+		"B78A266D-8764-41E7-BEE5-332FE1864112": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xlink.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xlink.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"BB4B014C10F69532006C3DED": {
+			"children": [
+				"7EB59863-BA9D-469C-885C-D5A2EDC5833B"
+			],
+			"isa": "PBXGroup",
+			"name": "addons",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons",
+			"sourceTree": "<group>"
+		},
+		"BD936DA0-E3AB-4573-827B-1C466DD5271D": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HStack.h",
+			"path": "src/addons/ofxFrameOcean/src/HStack.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"BEC4F0A4-A99E-4261-A8BB-865B7F316283": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual03.cpp",
+			"path": "src/visual03.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"BEE425A1-107E-4668-9F34-8DF630B13E53": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "globals.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/globals.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"BF669F6C-660F-4E75-835C-D4FD851EE98D": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "schemasInternals.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/schemasInternals.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"BFA06C9E-2D4F-438F-95A8-DCD6B8E3C342": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "dict.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/dict.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"C08781BA-D038-4307-903C-32F24B0EA705": {
+			"fileRef": "D3B9E86A-6F84-4FE3-A11A-410817ABE112",
+			"isa": "PBXBuildFile"
+		},
+		"C8AD86FA-8D0E-4604-8783-642A9B6FBBF5": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "valid.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/valid.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D0744FB0-A1CD-48F2-B7B8-896E581C3BE4": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "parser.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/parser.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D2283962-9A56-414A-B37E-4D46A47608C0": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual01.h",
+			"path": "src/visual01.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D34E52DE-72EC-4F7A-ADD7-152373025100": {
+			"children": [
+				"E7B9E90A-A448-4EA2-AC0D-86586ED0E8DA"
+			],
+			"isa": "PBXGroup",
+			"name": "libxml2",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D3B9E86A-6F84-4FE3-A11A-410817ABE112": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "HStack.cpp",
+			"path": "src/addons/ofxFrameOcean/src/HStack.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D4E36FBE-6371-43F8-93CF-42D12814D687": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "encoding.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/encoding.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D54B8176-5610-4BF2-B4AA-B47F6BA4B6F3": {
+			"children": [
+				"8AA4A6E7-B621-474E-95DC-524E7AF3A91E"
+			],
+			"isa": "PBXGroup",
+			"name": "ofxFrameOcean",
+			"path": "src/addons/ofxFrameOcean",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"D5D5F253-B341-4E25-94BA-744DA907142C": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlautomata.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlautomata.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"DE39C060-D8EB-48A5-B67D-D2BFF74CE80C": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "marginBand.cpp",
+			"path": "src/addons/ofxFrameOcean/src/marginBand.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E2C8972E-6C52-4708-B21A-5FFC91216440": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlIO.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlIO.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E2E1E5EB-E938-43A8-BA16-469475454704": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "parserInternals.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/parserInternals.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E42962A92163ECCD00A6A9E2": {
+			"alwaysOutOfDate": "1",
+			"buildActionMask": "2147483647",
+			"files": [],
+			"inputPaths": [],
+			"isa": "PBXShellScriptBuildPhase",
+			"name": "Run Script — Compile OF",
+			"outputPaths": [],
+			"runOnlyForDeploymentPostprocessing": "0",
+			"shellPath": "/bin/sh",
+			"shellScript": "echo \"💾 Compiling Openframeworks\"\nxcodebuild -project \"$OF_PATH/libs/openFrameworksCompiled/project/osx/openFrameworksLib.xcodeproj\" -target openFrameworks -configuration \"${CONFIGURATION}\"  CLANG_CXX_LANGUAGE_STANDARD=$CLANG_CXX_LANGUAGE_STANDARD MACOSX_DEPLOYMENT_TARGET=$MACOSX_DEPLOYMENT_TARGET GCC_PREPROCESSOR_DEFINITIONS=$USER_PREPROCESSOR_DEFINITIONS\n",
+			"showEnvVarsInLog": "0"
+		},
+		"E4A5B60F29BAAAE400C2D356": {
+			"buildActionMask": "2147483647",
+			"dstPath": "",
+			"dstSubfolderSpec": "6",
+			"files": [],
+			"isa": "PBXCopyFilesBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4B69B4A0A3A1720003C02F2": {
+			"children": [
+				"191CD6FA2847E21E0085CBB6",
+				"E4B6FCAD0C3E899E008CF71C",
+				"E4EB6923138AFD0F00A09F29",
+				"E4B69E1C0A3A1BDC003C02F2",
+				"191EF70929D778A400F35F26",
+				"BB4B014C10F69532006C3DED",
+				"E4B69B5B0A3A1756003C02F2"
+			],
+			"isa": "PBXGroup",
+			"sourceTree": "<group>"
+		},
+		"E4B69B4C0A3A1720003C02F2": {
+			"attributes": {
+				"LastUpgradeCheck": "0600"
+			},
+			"buildConfigurationList": "E4B69B4D0A3A1720003C02F2",
+			"compatibilityVersion": "Xcode 3.2",
+			"developmentRegion": "en",
+			"hasScannedForEncodings": "0",
+			"isa": "PBXProject",
+			"knownRegions": [
+				"en",
+				"Base"
+			],
+			"mainGroup": "E4B69B4A0A3A1720003C02F2",
+			"productRefGroup": "E4B69B4A0A3A1720003C02F2",
+			"projectDirPath": "",
+			"projectRoot": "",
+			"targets": [
+				"E4B69B5A0A3A1756003C02F2"
+			]
+		},
+		"E4B69B4D0A3A1720003C02F2": {
+			"buildConfigurations": [
+				"E4B69B4E0A3A1720003C02F2",
+				"E4B69B4F0A3A1720003C02F2"
+			],
+			"defaultConfigurationIsVisible": "0",
+			"defaultConfigurationName": "Release",
+			"isa": "XCConfigurationList"
+		},
+		"E4B69B4E0A3A1720003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"CODE_SIGN_ENTITLEMENTS": "of.entitlements",
+				"COPY_PHASE_STRIP": "NO",
+				"ENABLE_TESTABILITY": "YES",
+				"GCC_OPTIMIZATION_LEVEL": "0",
+				"GCC_WARN_UNUSED_VARIABLE": "NO",
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src"
+				],
+				"OTHER_CPLUSPLUSFLAGS": "-D__MACOSX_CORE__"
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Debug"
+		},
+		"E4B69B4F0A3A1720003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"CODE_SIGN_ENTITLEMENTS": "of.entitlements",
+				"COPY_PHASE_STRIP": "YES",
+				"GCC_OPTIMIZATION_LEVEL": "3",
+				"GCC_UNROLL_LOOPS": "YES",
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src"
+				],
+				"OTHER_CPLUSPLUSFLAGS": "-D__MACOSX_CORE__"
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Release"
+		},
+		"E4B69B580A3A1756003C02F2": {
+			"buildActionMask": "2147483647",
+			"files": [
+				"E4B69E200A3A1BDC003C02F2",
+				"E4B69E210A3A1BDC003C02F2",
+				"C08781BA-D038-4307-903C-32F24B0EA705",
+				"E757F1C0-C684-4787-B608-468C1AD9A19E",
+				"8219690C-7D9C-4DE7-83E0-2F443D4785D8",
+				"500F147A-D589-4243-B5C5-0D272DC84DE3",
+				"29D4E72F-D1B8-42FD-83F1-13E6140086CB",
+				"B5953205-E59D-4EB2-ADF0-791E823E2337",
+				"FA9D6DA5-9515-4F77-9E55-243E317DE27B",
+				"5D3E906E-2A80-4BE2-A706-DF367FD36CF1",
+				"633E024B-853F-4534-95B5-B978C61854CF",
+				"42C9B30B-CC7B-44ED-A5B5-EC5E1F7800AE",
+				"4E996748-77FC-4E19-AA9C-87117291DBFD"
+			],
+			"isa": "PBXSourcesBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4B69B590A3A1756003C02F2": {
+			"buildActionMask": "2147483647",
+			"files": [],
+			"isa": "PBXFrameworksBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4B69B5A0A3A1756003C02F2": {
+			"buildConfigurationList": "E4B69B5F0A3A1757003C02F2",
+			"buildPhases": [
+				"E42962A92163ECCD00A6A9E2",
+				"E4B69B580A3A1756003C02F2",
+				"E4B69B590A3A1756003C02F2",
+				"E4C2427710CC5ABF004149E2",
+				"E4A5B60F29BAAAE400C2D356",
+				"19B789C429E5AB4A0082E9B8"
+			],
+			"buildRules": [],
+			"dependencies": [],
+			"isa": "PBXNativeTarget",
+			"name": "Kumazawa Design",
+			"productName": "myOFApp",
+			"productReference": "E4B69B5B0A3A1756003C02F2",
+			"productType": "com.apple.product-type.application"
+		},
+		"E4B69B5B0A3A1756003C02F2": {
+			"explicitFileType": "wrapper.application",
+			"includeInIndex": "0",
+			"isa": "PBXFileReference",
+			"path": "Kumazawa DesignDebug.app",
+			"sourceTree": "BUILT_PRODUCTS_DIR"
+		},
+		"E4B69B5F0A3A1757003C02F2": {
+			"buildConfigurations": [
+				"E4B69B600A3A1757003C02F2",
+				"E4B69B610A3A1757003C02F2"
+			],
+			"defaultConfigurationIsVisible": "0",
+			"defaultConfigurationName": "Release",
+			"isa": "XCConfigurationList"
+		},
+		"E4B69B600A3A1757003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"ARCHS": "$(ARCHS_STANDARD)",
+				"COPY_PHASE_STRIP": "NO",
+				"FRAMEWORK_SEARCH_PATHS": "$(inherited)",
+				"GCC_DYNAMIC_NO_PIC": "NO",
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src",
+					"src/addons/ofxFrameOcean/src",
+					"src/addons/ofxTskokmtMath/src",
+					"src",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/emscripten",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/license",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/include",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/emscripten",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/license",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/src"
+				],
+				"LIBRARY_SEARCH_PATHS": "$(inherited)",
+				"OTHER_LDFLAGS": [
+					"$(OF_CORE_LIBS)",
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(LIB_OF_DEBUG)",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx/svgtiny.a",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx/xml2.a"
+				]
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Debug"
+		},
+		"E4B69B610A3A1757003C02F2": {
+			"baseConfigurationReference": "E4EB6923138AFD0F00A09F29",
+			"buildSettings": {
+				"ARCHS": "$(ARCHS_STANDARD)",
+				"COPY_PHASE_STRIP": "YES",
+				"FRAMEWORK_SEARCH_PATHS": "$(inherited)",
+				"HEADER_SEARCH_PATHS": [
+					"$(OF_CORE_HEADERS)",
+					"src",
+					"src/addons/ofxFrameOcean/src",
+					"src/addons/ofxTskokmtMath/src",
+					"src",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/emscripten",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/license",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/include",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/emscripten",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/license",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/src"
+				],
+				"LIBRARY_SEARCH_PATHS": "$(inherited)",
+				"OTHER_LDFLAGS": [
+					"$(OF_CORE_LIBS)",
+					"$(OF_CORE_FRAMEWORKS)",
+					"$(LIB_OF)",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/svgtiny/lib/osx/svgtiny.a",
+					"/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/lib/osx/xml2.a"
+				],
+				"baseConfigurationReference": "E4EB6923138AFD0F00A09F29"
+			},
+			"isa": "XCBuildConfiguration",
+			"name": "Release"
+		},
+		"E4B69E1C0A3A1BDC003C02F2": {
+			"children": [
+				"E4B69E1D0A3A1BDC003C02F2",
+				"E4B69E1E0A3A1BDC003C02F2",
+				"E4B69E1F0A3A1BDC003C02F2",
+				"60B08B5A-DAF8-4877-A27C-4FD065C2149A",
+				"08402830-9BD5-4E09-AE22-4FE59E26FBDC",
+				"D2283962-9A56-414A-B37E-4D46A47608C0",
+				"3C710DA0-8BAB-451B-9D38-9F1CA615EB34",
+				"97771821-0EB6-420A-90A3-93574B6E5F5D",
+				"BEC4F0A4-A99E-4261-A8BB-865B7F316283",
+				"9F19FC32-8074-4D0C-929E-34282E06C1BD",
+				"A3CC0CF2-93B4-418C-8493-C0B30FB1E050",
+				"66269A7B-BC36-4E0B-B320-3210A5AC5613",
+				"5EBF6A38-BCCF-4EDB-A8C3-56D02D3E322C",
+				"683EA349-C904-49F8-A013-B454AC80AED5",
+				"FC22611E-50DB-4282-9416-60E8751B04E1",
+				"96EAC28E-E9B9-4283-851C-13D3075D52C7"
+			],
+			"isa": "PBXGroup",
+			"path": "src",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E1D0A3A1BDC003C02F2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.cpp.cpp",
+			"name": "main.cpp",
+			"path": "src/main.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E1E0A3A1BDC003C02F2": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofApp.cpp",
+			"path": "src/ofApp.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E1F0A3A1BDC003C02F2": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "sourcecode.c.h",
+			"name": "ofApp.h",
+			"path": "src/ofApp.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E4B69E200A3A1BDC003C02F2": {
+			"fileRef": "E4B69E1D0A3A1BDC003C02F2",
+			"isa": "PBXBuildFile"
+		},
+		"E4B69E210A3A1BDC003C02F2": {
+			"fileRef": "E4B69E1E0A3A1BDC003C02F2",
+			"isa": "PBXBuildFile"
+		},
+		"E4B6FCAD0C3E899E008CF71C": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "text.plist.xml",
+			"path": "openFrameworks-Info.plist",
+			"sourceTree": "<group>"
+		},
+		"E4C2427710CC5ABF004149E2": {
+			"buildActionMask": "2147483647",
+			"dstPath": "",
+			"dstSubfolderSpec": "10",
+			"files": [],
+			"isa": "PBXCopyFilesBuildPhase",
+			"runOnlyForDeploymentPostprocessing": "0"
+		},
+		"E4EB6923138AFD0F00A09F29": {
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"lastKnownFileType": "text.xcconfig",
+			"path": "Project.xcconfig",
+			"sourceTree": "<group>"
+		},
+		"E757F1C0-C684-4787-B608-468C1AD9A19E": {
+			"fileRef": "5B15AB7F-C088-4C9C-B999-0C64427E08C9",
+			"isa": "PBXBuildFile"
+		},
+		"E7B9E90A-A448-4EA2-AC0D-86586ED0E8DA": {
+			"children": [
+				"FCCA5331-7638-4EF4-AC5C-A5169DBD8133"
+			],
+			"isa": "PBXGroup",
+			"name": "include",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"E7F48938-1A02-4451-8FB6-95FB5880BC50": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "chvalid.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/chvalid.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"F6DCB8DE-B387-49CC-BECD-8AE1B973A7E4": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "ofxTskokmtMath.h",
+			"path": "src/addons/ofxTskokmtMath/src/ofxTskokmtMath.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"F7FDCA97-D508-4F8A-B1F9-D3462D87E666": {
+			"explicitFileType": "sourcecode.c.h",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "xmlschemastypes.h",
+			"path": "/Users/tskokmt/Downloads/of_v0.12.0_osx_release/addons/ofxSvg/libs/libxml2/include/libxml/xmlschemastypes.h",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"F82DAF1F-44F7-4C34-A7EB-E7AA2DEA1A99": {
+			"children": [
+				"4C1B2CFF-A438-43AA-9248-5C769547E298",
+				"F6DCB8DE-B387-49CC-BECD-8AE1B973A7E4"
+			],
+			"isa": "PBXGroup",
+			"name": "src",
+			"path": "src/addons/ofxTskokmtMath/src",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"FA9D6DA5-9515-4F77-9E55-243E317DE27B": {
+			"fileRef": "BEC4F0A4-A99E-4261-A8BB-865B7F316283",
+			"isa": "PBXBuildFile"
+		},
+		"FC22611E-50DB-4282-9416-60E8751B04E1": {
+			"explicitFileType": "sourcecode.cpp.cpp",
+			"fileEncoding": "4",
+			"isa": "PBXFileReference",
+			"name": "visual06.cpp",
+			"path": "src/visual06.cpp",
+			"sourceTree": "SOURCE_ROOT"
+		},
+		"FCCA5331-7638-4EF4-AC5C-A5169DBD8133": {
+			"children": [
+				"2F3C449A-9940-49E6-A16D-220C4BEC9EA0",
+				"0C698D36-DE0E-4804-8C50-049AEE44B574",
+				"6F31AA1D-0F6A-4000-8BE2-02F3B11EBFCC",
+				"038F1F54-A4BD-49CF-8B3C-1C3CA5B6B7E5",
+				"14645992-DDF0-436F-A77E-9DE9C5917011",
+				"84990234-9B0B-4928-8B01-3CF34765087C",
+				"8B8FAF59-34F1-4076-9B25-BD6FE0700139",
+				"E7F48938-1A02-4451-8FB6-95FB5880BC50",
+				"2E649193-BD89-4DED-ABED-5A6E96B415E8",
+				"BFA06C9E-2D4F-438F-95A8-DCD6B8E3C342",
+				"D4E36FBE-6371-43F8-93CF-42D12814D687",
+				"357D9E4A-DB78-47FB-AD87-FB3D2D311B3A",
+				"BEE425A1-107E-4668-9F34-8DF630B13E53",
+				"0C7F3ADB-A517-4E75-BBF8-FCF3482DBC1F",
+				"7B6B64C7-E27C-4234-8489-F70CA0F61229",
+				"571624A0-84C0-49AD-BC9C-C892E436ACF6",
+				"2D672092-6CEC-4B0C-9E73-A24D92B2D269",
+				"D0744FB0-A1CD-48F2-B7B8-896E581C3BE4",
+				"E2E1E5EB-E938-43A8-BA16-469475454704",
+				"655DB2F0-40AF-4020-80A8-C5C66236EC64",
+				"7ED0F005-726D-4D3F-8F63-2A8064D8294B",
+				"BF669F6C-660F-4E75-835C-D4FD851EE98D",
+				"53689C04-437A-4822-BBFC-A61F5B60BE98",
+				"60FAA74F-8F76-420C-9857-C5D4B829ABB1",
+				"872288DB-DD71-49DD-8D70-6A40FCE07F49",
+				"365ABA6A-28C8-4313-ABF2-8C00B6EE39CF",
+				"C8AD86FA-8D0E-4604-8783-642A9B6FBBF5",
+				"17DCF538-24E6-4425-A0FE-89C5124421F0",
+				"B78A266D-8764-41E7-BEE5-332FE1864112",
+				"E2C8972E-6C52-4708-B21A-5FFC91216440",
+				"D5D5F253-B341-4E25-94BA-744DA907142C",
+				"2C9D762D-0AF0-4A17-AD87-C39C8397D79B",
+				"27C6C114-01D8-439A-BC0A-0751B5CAD0CC",
+				"09878F5A-0301-45A3-A9D0-F2B447FC528C",
+				"3888A0DD-9248-4BBE-9605-4801FAC6CA85",
+				"53DF344B-23B7-4F79-9D5E-CB9DBB99EAE3",
+				"04BC1993-2494-4CCF-9E27-B84B29AE74CB",
+				"2E1F5B10-C607-43C8-ACAC-21AC66C918B8",
+				"388C783B-5301-41A3-9759-9F0F041E696D",
+				"F7FDCA97-D508-4F8A-B1F9-D3462D87E666",
+				"080C2E9F-3144-49BA-B77E-E1A3D0976455",
+				"0E7DA887-456B-45ED-B47A-9CFC86C922C6",
+				"85AF5DEF-7234-481B-94C3-02714F844A85",
+				"03E641A8-2F46-4AA9-8EB3-E3ED8E927DC1",
+				"854F9D82-40CC-45FF-A59E-865A92AFA270",
+				"9DE86083-1A4C-4727-B66B-B603EF692DBD",
+				"374A5286-240E-4B2F-AE57-330B91B626D3"
+			],
+			"isa": "PBXGroup",
+			"name": "libxml",
+			"sourceTree": "SOURCE_ROOT"
+		}
+	},
+	"openFrameworksProjectGeneratorVersion": "21",
+	"rootObject": "E4B69B4C0A3A1720003C02F2"
+}
