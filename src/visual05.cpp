@@ -3,8 +3,10 @@
 //--------------------------------------------------------------
 visual05::visual05() {
     
+    //Load text image
     textImage.load("05/text.png");
     
+    //Load palette
     ofImage palette;
     palette.load("05/palette.png");
     for (int i = 0; i < palette.getWidth(); i++) {
@@ -21,6 +23,8 @@ void visual05::draw(ofRectangle frame_, float time_) {
     
     //DRAW
     
+    if (colors.empty()) return;
+    
     ofSetColor(colors.back());
     ofDrawRectangle(frame_);
     
@@ -29,8 +33,10 @@ void visual05::draw(ofRectangle frame_, float time_) {
         
         float noise = ofNoise(i / engine + time_, time_ / speed);
         
-        ofSetColor(colors[ofClamp(ofMap(noise, .1, .9, 0, (int)colors.size()), 0, (int)colors.size() - 1)]);
-        //ofSetColor(colors[i % (int)colors.size()]);
+        int colorIndex = ofMap(noise, .1, .9, 0, (int)colors.size());
+        colorIndex = ofClamp(colorIndex, 0, (int)colors.size() - 1);
+        
+        ofSetColor(colors[colorIndex]);
         ofDrawRectangle(frame_.position, frame_.width * ratio, frame_.height * ratio);
     }
     

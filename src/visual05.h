@@ -2,8 +2,6 @@
 
 #include "ofMain.h"
 
-#include "ofxSvg.h"
-
 class visual05 {
 
 public:
